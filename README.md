@@ -12,7 +12,7 @@ You can use the following commands to seed the database with some sample users a
 npm run data:import
 
 # Destroy data
-npm run data:destroy
+npm run data:destroy 
 ```
 
 ## Available Scripts
