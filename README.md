@@ -22,15 +22,15 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://54.144.255.88/](http://54.144.255.88/) to view the React app in your browser.
+Open [http://54.208.218.173/](http://54.208.218.173/) to view the React app in your browser.
 
 ## Node API access via routes
 
 List of all NFTs:
 
-- http://ec2-54-144-255-88.compute-1.amazonaws.com/api/assets
+- http://ec2-54-208-218-173.compute-1.amazonaws.com/api/assets
 
 
 Find an NFTs by ID:
 
-- http://ec2-54-144-255-88.compute-1.amazonaws.com/api/assets/id
+- http://ec2-54-208-218-173.compute-1.amazonaws.com/api/assets/id
